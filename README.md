@@ -1,1 +1,2 @@
+# cypress-test-awesome-typescript-loader [![CircleCI](https://circleci.com/gh/cypress-io/cypress-test-awesome-typescript-loader/tree/master.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress-test-awesome-typescript-loader/tree/master)
 > Example using [awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) via [cypress-webpack-preprocessor](https://github.com/cypress-io/cypress-webpack-preprocessor) to transpile Cypress TypeScript spec files.
