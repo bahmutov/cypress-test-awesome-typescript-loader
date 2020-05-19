@@ -1,0 +1,1 @@
+> Example using [awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) via [cypress-webpack-preprocessor](https://github.com/cypress-io/cypress-webpack-preprocessor) to transpile Cypress TypeScript spec files.
